@@ -1,4 +1,4 @@
-# Mood Tracker - Daniela TI211-FR
+# Mood Tracker
 
 ![iOS Planificator Demo](Simulator%20Screen%20Recording%20-%20iPhone%2016%20Pro%20-%202025-03-19%20at%2000.57.43.gif)
 
